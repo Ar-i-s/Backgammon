@@ -87,4 +87,4 @@ Python time sleep. Python time sleep function is used to add delay in the execut
 program. We can use python sleep function to halt the execution of the program for
 given time in seconds. Notice that python time sleep
 
-DEVELOPED BY SYED MAAZ HASSAN
+DEVELOPED BY Aris Christou
